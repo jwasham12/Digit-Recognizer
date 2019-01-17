@@ -5,7 +5,7 @@
     
 ## Executive Summary
 
-Image processing is a method to perform some operations on an image, in order to get an enhanced image or to extract some useful information from it. In machine learning, the images are converted into pixels in order to extract common charteristics of pixel to classify the similar image. The dataset from Kaggle contained the pixel values of the 42000 digit images and the correct labels. The goal of this project is to correctly identify digits from a dataset of tens of thousands of handwritten images using data science techniques and computer vision fundamentals.
+Image processing is a method to perform some operations on an image, in order to get an enhanced image or to extract some useful information from it. In machine learning, the images are converted into pixels in order to extract common characteristics of pixels to classify the similar image. The dataset from Kaggle contained the pixel values of the 42000 digit images and the correct labels. The goal of this project is to correctly identify digits from a dataset of tens of thousands of handwritten images using data science techniques and computer vision fundamentals.
 
 ## Data Dictionary
 
@@ -22,7 +22,7 @@ Image processing is a method to perform some operations on an image, in order to
 
 - Obtain the data from Kaggle
 - Check the images of the digits
-- Build model using different type of pre-processing
+- Build model using different types of pre-processing
 - Select the best model
 - Search the best parameter of the final model (Use AWS)
 - Evaluate the model
