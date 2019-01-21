@@ -1,6 +1,6 @@
 ## Problem Statement
 
-**Classify digit images using Principle Component Analysis (PCA) and supervised classification machine learning methods.**
+**Classify digit images using Principal Component Analysis (PCA) and supervised classification machine learning methods.**
     
     
 ## Executive Summary
@@ -33,7 +33,7 @@ Image processing is a method to perform some operations on an image, in order to
 **Best Model**
 - Pre-processing
     - Standard Scaler (Scaling)
-    - Principle Component Analysis (222 components)
+    - Principal Component Analysis (222 components)
 - Support Vector Classifier (SVC)
     - C = 1
     - gamma = 0.001
