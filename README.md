@@ -31,7 +31,7 @@ Image processing is a method to perform some operations on an image, in order to
 ## Conclusion
 
 **Best Model**
-- Pre-processing
+- Preprocessing
     - Standard Scaler (Scaling)
     - Principal Component Analysis (222 components)
 - Support Vector Classifier (SVC)
